@@ -1,6 +1,6 @@
 package com.example;
 
-public class git commit -m "first commit" {
+public class BuscaBinariaRecursiva {
 
     public static int buscaBinaria(int[] array, int elemento, int inicio, int fim) {
         if (inicio > fim) {
